@@ -216,7 +216,6 @@ export default function Home() {
     <main className="app-shell">
       <aside className="sidebar">
         <div className="brand">
-          <span className="brand-icon">◎</span>
           <div>
             <b>Small Web</b>
             <small>Mini Browser</small>
